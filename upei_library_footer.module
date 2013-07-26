@@ -6,12 +6,12 @@
  */
 function upei_footer_theme() {
   return array(
-    'upei_footer_footer' => array('arguments' => array(), 'template' => 'upei-footer-footer')
+    'upei_library_footer_footer' => array('arguments' => array(), 'template' => 'upei-library-footer-footer')
   );
 }
 
 function upei_footer_block_info() {
-  $blocks['upei_footer'] = array(
+  $blocks['upei_library_footer'] = array(
     'info' => t('UPEI Library footer'), //The name that will appear in the block list.
     'cache' => DRUPAL_CACHE_PER_ROLE, //Default
   );
@@ -23,9 +23,9 @@ function upei_footer_block_view($delta = '') {
   $block = array();
 
   switch ($delta) {
-    case 'upei_footer':
+    case 'upei_library_footer':
       $block['subject'] = t('');
-      $block['content'] = theme('upei_footer_footer');
+      $block['content'] = theme('upei_library_footer_footer');
       return $block;
     break;
   }
