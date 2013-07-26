@@ -4,13 +4,13 @@
 /*
  * Implementation of hook_theme().
  */
-function upei_footer_theme() {
+function upei_library_footer_theme() {
   return array(
     'upei_library_footer_footer' => array('arguments' => array(), 'template' => 'upei-library-footer-footer')
   );
 }
 
-function upei_footer_block_info() {
+function upei_library_footer_block_info() {
   $blocks['upei_library_footer'] = array(
     'info' => t('UPEI Library footer'), //The name that will appear in the block list.
     'cache' => DRUPAL_CACHE_PER_ROLE, //Default
@@ -18,7 +18,7 @@ function upei_footer_block_info() {
   return $blocks;
 }
 
-function upei_footer_block_view($delta = '') {
+function upei_library_footer_block_view($delta = '') {
   // This example is adapted from node.module.
   $block = array();
 
@@ -32,7 +32,7 @@ function upei_footer_block_view($delta = '') {
 
 }
 
-function upei_footer_preprocess_upei_footer_footer(&$variables) {
+function upei_library_footer_preprocess_upei_library_footer_footer(&$variables) {
 /*  $request = drupal_http_request('http://www.upei.ca/becomeastudent/files/misc/footer.php'); */
 $request = drupal_http_request('http://137.149.200.37/content//sites/137.149.200.37.content/files/misc/library_footer.txt');
   $data = $request->data;
