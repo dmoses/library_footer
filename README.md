@@ -1,13 +1,9 @@
-This is a copy/modification of the UPEI footer module for the library.
-
---------------------------
-
 UPEI footer exposes a block that includes the footer from a static URL. This module 
 allows the footer to live independant of a theme so it can be exposed on multiple
 site installs and themes. Currently there are no admin options, or included CSS.
 CSS styling is to be handled on the theme layer for now. 
 
-originally developed by Kris Bulman (krisbulman).
+Maintained by Kris Bulman (krisbulman).
 
 Install
 -------
@@ -17,5 +13,5 @@ Install
 2) Enable the module in the 'Modules' section from the admin bar
    (/admin/modules).
 
-3) Go to the blocks page at Structure -> Blocks (admin/structure/block) and set the Library Footer block
+3) Go to the blocks page at Structure -> Blocks (admin/structure/block) and set the UPEI Footer block
    to the footer region. Style accordingly. 

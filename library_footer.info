@@ -1,6 +1,0 @@
-; $Id: library_footer.info,v 1.0 2013/07/25 16:58:08 dmoses Exp $
-name = Library footer
-description = A helper module for including the Library footer.
-core = 7.x
-files[] = library_footer.module
-files[] = library-footer-footer.tpl.php

@@ -4,8 +4,6 @@
   <h2 class="title">About</h2>
 
   <ul class="menu">
-
-<ul>
 	<li class="leaf first">Contact Us</li>
 	<li class="leaf">Visitor Info</li>
 	<li>Hours</li>
@@ -19,11 +17,10 @@
 	<li>Forms</li>
 	<li>News</li>
 </ul>
-
-  &nbsp;
 </div>
+
 <div class="section bottom-links menu-02">
-  <h2 class="title">Do Research and Get Help</h2>
+  <h2 class="title">Do Research</h2>
   <ul class="menu">
 	<li class="leaf first">OneSearch</li>
 	<li class="leaf">Catalogue</li>
@@ -36,31 +33,24 @@
 	<li>RefWorks</li>
 	<li>Citing Sources</li>
 </ul>
-
-
-&nbsp;
 </div>
 
-
-
 <div class="section bottom-links menu-03">
-  <h2 class="title">Services and Equipment</h2>
+  <h2 class="title">Get Help</h2>
   <ul class="menu">
     <li class="leaf first">Ask Us</li>
 	<li>Tours, Tutorials, Quizzes</li>
 	<li>Subject Guides</li>
 	<li>Subject Librarians</li>
  </ul>
-
-&nbsp;
 </div>
 
 <div class="section bottom-links menu-04">
   <h2 class="title">Services and Equipment</h2>
   <ul class="menu">
-    <li class="leaf first">Reserves and&nbsp;E-Reserves</li>
+    <li class="leaf first">Reserves and E-Reserves</li>
 	<li>Study Rooms</li>
-	<li>Computers and&nbsp;Laptops</li>
+	<li>Computers and Laptops</li>
 	<li>Borrow/Renew/Return Items</li>
 	<li>Photocopying</li>
 	<li>Printing</li>
@@ -70,9 +60,8 @@
 	<li>Collaboratory and media technology</li>
 	<li>Language Lab</li>
  </ul>
-
-&nbsp;
 </div>
+
 <div class="section bottom-links menu-05">
   <h2 class="title">Projects and Initiatives</h2>
   <ul class="menu">
@@ -89,10 +78,7 @@
 	<li>RIRI</li>
 	<li>Islandora</li>
 	<li>VRE</li>
-
 </ul>
-
-&nbsp;
 </div>
 
 </div> <!-- Footer Links -->
@@ -111,7 +97,7 @@
 		<a href="https://cab.upei.ca/privacy-committee">Privacy Policy</a> | 
 		<a href="http://home.upei.ca/disclaimer">Disclaimer</a> | 
 		<a href="http://home.upei.ca/about-website">About this Website</a> | 
-		<a href="http://upeitest.desk.com/customer/widget/emails/new?ticket[custom_upei_url]=http%3A//home.upei.ca/&">Contact UPEI</a>&nbsp;&nbsp;&nbsp;
+		<a href="http://upeitest.desk.com/customer/widget/emails/new?ticket[custom_upei_url]=http%3A//home.upei.ca/&">Contact UPEI</a>
 		</div>
 		</div>
 		<div class="socialmedia">
