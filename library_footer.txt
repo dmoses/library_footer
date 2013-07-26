@@ -1,0 +1,125 @@
+<div class="footer-links">
+<div class="clear-block clr" id="links-section">
+  <div class="section bottom-links menu-01 bl-first">
+  <h2 class="title">About</h2>
+
+  <ul class="menu">
+
+<ul>
+	<li class="leaf first">Contact Us</li>
+	<li class="leaf">Visitor Info</li>
+	<li>Hours</li>
+	<li>Donations</li>
+	<li>Feedback</li>
+	<li>Floor Plans</li>
+	<li>Staff</li>
+	<li>Library Organization</li>
+	<li>Copyright Info</li>
+	<li>Policies</li>
+	<li>Forms</li>
+	<li>News</li>
+</ul>
+
+  &nbsp;
+</div>
+<div class="section bottom-links menu-02">
+  <h2 class="title">Do Research and Get Help</h2>
+  <ul class="menu">
+	<li class="leaf first">OneSearch</li>
+	<li class="leaf">Catalogue</li>
+	<li>Journals Lookup</li>
+	<li><a href="databases">Databases List</a></li>
+	<li>Government Publications</li>
+	<li>PEI Collection</li>
+	<li>Interlibrary Loan (ILL)</li>
+	<li>Alumni Access</li>
+	<li>RefWorks</li>
+	<li>Citing Sources</li>
+</ul>
+
+
+&nbsp;
+</div>
+
+
+
+<div class="section bottom-links menu-03">
+  <h2 class="title">Services and Equipment</h2>
+  <ul class="menu">
+    <li class="leaf first">Ask Us</li>
+	<li>Tours, Tutorials, Quizzes</li>
+	<li>Subject Guides</li>
+	<li>Subject Librarians</li>
+ </ul>
+
+&nbsp;
+</div>
+
+<div class="section bottom-links menu-04">
+  <h2 class="title">Services and Equipment</h2>
+  <ul class="menu">
+    <li class="leaf first">Reserves and&nbsp;E-Reserves</li>
+	<li>Study Rooms</li>
+	<li>Computers and&nbsp;Laptops</li>
+	<li>Borrow/Renew/Return Items</li>
+	<li>Photocopying</li>
+	<li>Printing</li>
+	<li>Scanning</li>
+	<li>Wireless network access</li>
+	<li>Off-campus access</li>
+	<li>Collaboratory and media technology</li>
+	<li>Language Lab</li>
+ </ul>
+
+&nbsp;
+</div>
+<div class="section bottom-links menu-05">
+  <h2 class="title">Projects and Initiatives</h2>
+  <ul class="menu">
+    <li class="leaf first">IslandArchives</li>
+	<li>IslandImagined</li>
+	<li>IslandLives</li>
+	<li>IslandNarratives</li>
+	<li>IslandVoices</li>
+	<li>PEI LDO</li>
+	<li>LMMI</li>
+	<li>IslandScholar</li>
+	<li>University Archives</li>
+	<li>SeaWords</li>
+	<li>RIRI</li>
+	<li>Islandora</li>
+	<li>VRE</li>
+
+</ul>
+
+&nbsp;
+</div>
+
+</div> <!-- Footer Links -->
+<div class="footeraddress">
+	<div class="inner-footeraddress">
+		<div class="addressleft">
+		<div class="address">
+			550 University Avenue, Charlottetown<br /> 
+			Prince Edward Island, Canada C1A 4P3<br />
+
+		</div>
+
+		<div class="links-last">
+		<a href="http://www.upei.ca/emergency/">Emergency Preparedness</a> | 
+		<a href="http://home.upei.ca/about-upei/publications">Publications</a> | 
+		<a href="https://cab.upei.ca/privacy-committee">Privacy Policy</a> | 
+		<a href="http://home.upei.ca/disclaimer">Disclaimer</a> | 
+		<a href="http://home.upei.ca/about-website">About this Website</a> | 
+		<a href="http://upeitest.desk.com/customer/widget/emails/new?ticket[custom_upei_url]=http%3A//home.upei.ca/&">Contact UPEI</a>&nbsp;&nbsp;&nbsp;
+		</div>
+		</div>
+		<div class="socialmedia">
+		<a class="noicon" href="http://facebook.com/UniversityofPEI"><img src="http://files.upei.ca/misc/social/upei_facebook.png"></a>
+    <a class="noicon" href="http://twitter.com/upei"><img src="http://files.upei.ca/misc/social/upei_twitter.png"></a>
+    <a class="noicon" href="http://youtube.com/UofPEI"><img src="http://files.upei.ca/misc/social/upei_youtube.png"></a>
+    <a class="noicon" href="http://flickr.com/groups/upei"><img src="http://files.upei.ca/misc/social/upei_flickr.png"></a>
+		</div>
+		<div class="footerlogo"><img src="http://files.upei.ca/misc/shieldfooter.png"></div>
+	</div>
+</div>
